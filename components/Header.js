@@ -5,12 +5,12 @@ export default function Header() {
         <>
             <header className="header">
                 <nav className="nav">
-                    <Link href="/">
+                    {/* <Link href="/">
                         <a>My Blog</a>
-                    </Link>
-                    <Link href="/about">
+                    </Link> */}
+                    {/* <Link href="/about">
                         <a>About</a>
-                    </Link>
+                    </Link> */}
                 </nav>
             </header>
         </>

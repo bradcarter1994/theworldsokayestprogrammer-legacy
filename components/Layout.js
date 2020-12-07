@@ -12,7 +12,7 @@ export default function Layout({children, pageTitle, ...props}) {
                 <Header />
                 <div className="content">{children}</div>
             </section>
-            <footer>Built by me!</footer>
+            <footer></footer>
         </>
     )
 }
