@@ -12,7 +12,7 @@ export default function PostList({ posts }) {
                         return (
                             <li key={post.slug}>
                                 <Link href={{ pathname: `/post/${post.slug}` }}>
-                                    <a>{post.frontmatter.title}</a>
+                                    <a>{post.frontmatter.title} - {post.frontmatter.date}</a>
                                 </Link>
                             </li>
                         )
