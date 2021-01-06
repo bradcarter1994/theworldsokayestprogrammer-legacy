@@ -17,8 +17,8 @@ You can contact me at:
 - [therealbradcarter on LinkedIn](https://www.linkedin.com/in/therealbradcarter/)
 - [bradcarter1994 on GitHub](https://github.com/bradcarter1994)
 
-![](https://i.imgur.com/09nccxP.jpg "Thinker/Doer Org Diagram")
+![](https://i.imgur.com/09nccxP.jpg "Hiking in Grand Teton National Park")
 
-![](https://i.imgur.com/DRoV6tt.jpg "Thinker/Doer Org Diagram")
+![](https://i.imgur.com/DRoV6tt.jpg "Biking around Jenny Lake in Grand Teton with my girlfriend")
 
-![](https://i.imgur.com/7Qfz3Ad.jpg "Thinker/Doer Org Diagram")
+![](https://i.imgur.com/7Qfz3Ad.jpg "Mountain Biking with my sister")
